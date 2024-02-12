@@ -44,6 +44,7 @@
 		6856FC052B7A474C00492562 /* GuessTheFlagUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GuessTheFlagUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6856FC092B7A474C00492562 /* GuessTheFlagUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlagUITests.swift; sourceTree = "<group>"; };
 		6856FC0B2B7A474C00492562 /* GuessTheFlagUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlagUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6856FC182B7A476D00492562 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		6856FBE22B7A474B00492562 = {
 			isa = PBXGroup;
 			children = (
+				6856FC182B7A476D00492562 /* .gitignore */,
 				6856FBED2B7A474B00492562 /* GuessTheFlag */,
 				6856FBFE2B7A474C00492562 /* GuessTheFlagTests */,
 				6856FC082B7A474C00492562 /* GuessTheFlagUITests */,
